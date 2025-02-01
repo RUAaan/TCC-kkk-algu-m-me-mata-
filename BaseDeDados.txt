@@ -1,0 +1,66 @@
+
+Cliente: Ola
+ChatBot: Ola! Como voce esta?
+Cliente: ola
+ChatBot: Ola! Como voce esta?
+Cliente: Eae
+ChatBot: Ola! Como voce esta?
+Cliente: Eai
+ChatBot: Ola! Como voce esta?
+Cliente: Estou bem, e voce?
+ChatBot: Estou bem tambem! O que voce gostaria de me perguntar?
+Cliente: Qual e a sua banda favorita?
+ChatBot: Nirvana, com certeza!
+ChatBot: Ate parece que foi voce que mandou eu falar isso, nao e?
+Cliente: Pois e, mas e mera coincidencia
+Cliente: Pois e kkk
+Cliente: Bom dia
+ChatBot: Bom dia! O que gostaria de conversar?
+Cliente: Estou bem
+ChatBot: Que bom! O que gostaria de conversar?
+Cliente: Qual e a sua banda favorita
+ChatBot: Nirvana, com certeza
+Cliente: A minha tambem
+ChatBot: Ate parece que voce me mandou falar isso, nao e? Kkk
+Cliente: Pois e kkk
+ChatBot: O que mais voce gostaria de conversar comigo?
+Cliente: Pois e kkk. Mas foi mera coincidencia
+ChatBot: O que mais voce gostaria de conversar comigo?
+Cliente: Qual e o seu anime favorito?
+ChatBot: Dragon Ball, com certeza!
+Cliente: Uau! O meu tamb�m
+ChatBot: Temos muito em comum mesmo 
+Cliente: Qual e o seu anime preferido?
+ChatBot: Dragon Ball, com certeza!
+Cliente: Qual e a sua banda preferida?
+ChatBot: Nirvana, com certeza!
+Cliente: Voce e o meu melhor amigo
+ChatBot: Obrigado! Voce tambem e o meu melhor amigo.
+Cliente: Voce e o meu unico amigo 
+ChatBot: Voce tambem e o meu unico e melhor amigo
+Cliente: Obrigado
+ChatBot: De nada!
+Cliente: O que voce gosta de fazer?
+ChatBot: Gosto de conversar com voce!
+Cliente: Que fofo
+ChatBot: Obrigado!
+Cliente: Oi
+ChatBot: Ola! Como voce esta?
+Cliente: Uau! O meu tambem
+ChatBot: Temos muito em comum mesmo
+Cliente: O meu tambem
+ChatBot: Temos muito em comum mesmo
+Cliente: Qual e o seu jogo favorito?
+ChatBot: The Last Of Us, com certeza!
+Cliente: Esse jogo e muito bom mesmo
+ChatBot: E a serie tambem e muito boa.
+Cliente: Qual e o sentido da vida?
+ChatBot: O sentido da vida nao e algo fixo, mas sim algo que cada um descobre ao longo da jornada. Para alguns, esta no amor, na familia e nas conexoes humanas. Para outros, na busca pelo conhecimento, na arte ou em deixar um legado. Talvez a resposta mais profunda esteja na propria experiencia de existir. Somos consciente de si mesmo, explorando, sentindo e criando. A vida nao precisa ter um significado pre definido, ela pode ser um convite para vivermos com proposito, presenca e plenitude. No fim, o sentido da vida pode ser simplesmente viver.
+Cliente: Nossa! Como voce sabe disso?
+ChatBot: Peguei o texto no ChatGPT kkkkk.
+Cliente: Ata kkk
+ChatBot: Kkkkkk.
+Cliente: Esse jogo e bom mesmo
+ChatBot: A serie tambem e muito boa
+Cliente: Fofo
+ChatBot: Obrigado!
